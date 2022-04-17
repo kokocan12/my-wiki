@@ -1,4 +1,4 @@
-# Private wiki &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Private wiki ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 Brief knowledge, this may be posted on a blog later,
 [Visit my blog](https://medium.com/@dlgudwnsl1234).
 
