@@ -2,5 +2,5 @@
 Brief knowledge, this may be posted on a blog later,
 [Visit my blog](https://medium.com/@dlgudwnsl1234).
 
-# How should I use it?
+# How can I use it?
 check out the [Issues tab](https://github.com/kokocan12/my-wiki/issues)
