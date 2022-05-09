@@ -1,3 +1,6 @@
-# Private wiki ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-Brief knowledge, Check out the [Issues tab](https://github.com/kokocan12/my-wiki/issues)
+# My wiki ![](https://img.shields.io/badge/Wiki-private-green)
+**My private wiki.<br/>**
+
+
+**If you want know what I learned these days, Check out the [Issues tab](https://github.com/kokocan12/my-wiki/issues)**
 
