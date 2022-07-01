@@ -2,5 +2,5 @@
 **My private wiki.<br/>**
 
 
-**Check out the [Issues tab](https://github.com/kokocan12/my-wiki/issues)**
+**Check out the [Issues tab](https://github.com/kokocan12/my-wiki/issues).**
 
